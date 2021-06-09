@@ -14,7 +14,7 @@ For both tasks:
 - Code should be properly formatted.
 - Endpoints should return meaningful error messages where needed.
 - You can use any framework to create the app.
-- It should only return the users with truthy `id.value`.
+- Use only the users with a truthy `id.value` from the randomuser API.
 - The returned users should follow this schema/type:
 
 ```typescript
